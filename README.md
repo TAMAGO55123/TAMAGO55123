@@ -11,6 +11,7 @@
 嫌いなこと：運動
 
 -----↓English-----
+
 Hello!I'm TAMAGO55.
 
 I often activity in Scratch.
