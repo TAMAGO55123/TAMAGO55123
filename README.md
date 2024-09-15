@@ -10,12 +10,10 @@
 
 嫌いなこと：運動
 
------↓English-----
+作成Webサイトリスト
 
-Hello!I'm TAMAGO55.
+https://github.com/TAMAGO55123/Irai-1
+http://tohato0715.f5.si
 
-I often activity in Scratch.
-
-I like programming.
-
-and, I like making music too.
+https://github.com/TAMAGO55123/Irai-2
+http://night.tamago55.f5.si
