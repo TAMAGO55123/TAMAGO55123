@@ -13,7 +13,7 @@
 作成Webサイトリスト
 
 https://github.com/TAMAGO55123/Irai-1
-http://tohato0715.f5.si
+http://tohato0715.tamago55123.f5.si
 
 https://github.com/TAMAGO55123/Irai-2
 http://night.tamago55.f5.si
