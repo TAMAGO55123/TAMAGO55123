@@ -1,19 +1,7 @@
-------↓japanese↓-----
+TAMAGO55123
 
-こんにちは！私はTAMAGO55です！
+discord id:tamago55_
 
-私は主にScratchで活動しています。
+Youtube,X:TAMAGO55123
 
-好きなこと：プログラミング
-
-　　　　　　作曲
-
-嫌いなこと：運動
-
-作成Webサイトリスト
-
-https://github.com/TAMAGO55123/Irai-1
-http://tohato0715.tamago55123.f5.si
-
-https://github.com/TAMAGO55123/Irai-2
-http://night.tamago55.f5.si
+Scratch:TAMAGO55,TAMAGO55123
