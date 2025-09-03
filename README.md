@@ -1,7 +1,9 @@
 TAMAGO55123
 
-discord id:tamago55_
+Discord Name:cream321.
 
 Youtube,X:TAMAGO55123
 
 Scratch:TAMAGO55,TAMAGO55123
+
+Niconico:TAMAGO55_たまごくん
