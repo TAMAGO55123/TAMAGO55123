@@ -1,9 +1,7 @@
-TAMAGO55123
+# TAMAGO55123
 
-Discord Name:cream321.
+**Tags Collection Owner** https://discord.gg/GgMSemP6f6
 
-Youtube,X:TAMAGO55123
+[X](https://x.com/TAMAGO55123)
 
-Scratch:TAMAGO55,TAMAGO55123
-
-Niconico:TAMAGO55_たまごくん
+高専生
